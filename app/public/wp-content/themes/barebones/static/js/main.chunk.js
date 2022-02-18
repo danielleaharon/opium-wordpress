@@ -65,18 +65,7 @@ function App() {
       lineNumber: 10,
       columnNumber: 17
     }
-  }, "hi"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    className: "App-link",
-    href: "https://reactjs.org",
-    target: "_blank",
-    rel: "noopener noreferrer",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13,
-      columnNumber: 17
-    }
-  }, "Learn React")));
+  }, "hi")));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
@@ -265,5 +254,5 @@ module.exports = __webpack_require__(/*! /Users/user/Local Sites/opium/app/publi
 
 /***/ })
 
-},[[0,"runtime-main",0]]]);
+},[[0,"runtime-main",1]]]);
 //# sourceMappingURL=main.chunk.js.map
