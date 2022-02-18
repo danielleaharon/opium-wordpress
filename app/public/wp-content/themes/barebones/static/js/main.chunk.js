@@ -48,21 +48,11 @@ function App() {
       lineNumber: 8,
       columnNumber: 13
     }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _logo_svg__WEBPACK_IMPORTED_MODULE_1___default.a,
-    className: "App-logo",
-    alt: "logo",
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9,
-      columnNumber: 17
-    }
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
       columnNumber: 17
     }
   }, "hi")));
@@ -254,5 +244,5 @@ module.exports = __webpack_require__(/*! /Users/user/Local Sites/opium/app/publi
 
 /***/ })
 
-},[[0,"runtime-main",1]]]);
+},[[0,"runtime-main",0]]]);
 //# sourceMappingURL=main.chunk.js.map
