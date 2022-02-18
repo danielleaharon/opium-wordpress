@@ -55,7 +55,7 @@ function App() {
       lineNumber: 9,
       columnNumber: 17
     }
-  }, "hi")));
+  })));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
@@ -244,5 +244,5 @@ module.exports = __webpack_require__(/*! /Users/user/Local Sites/opium/app/publi
 
 /***/ })
 
-},[[0,"runtime-main",0]]]);
+},[[0,"runtime-main",1]]]);
 //# sourceMappingURL=main.chunk.js.map
