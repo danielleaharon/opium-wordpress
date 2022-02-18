@@ -41,7 +41,7 @@ function App() {
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
-    className: "App-header",
+    className: "App-header daaa",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -237,5 +237,5 @@ module.exports = __webpack_require__(/*! /Users/user/Local Sites/opium/app/publi
 
 /***/ })
 
-},[[0,"runtime-main",0]]]);
+},[[0,"runtime-main",1]]]);
 //# sourceMappingURL=main.chunk.js.map
